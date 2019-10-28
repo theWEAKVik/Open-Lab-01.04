@@ -1,7 +1,7 @@
 # Open-Lab-01.04 (3 XP) 
 Function that calculates area of a triangle from foundation and height.
 
-1. Clone this repository to your GitHub account.
+1. Fork this repository to your GitHub account.
 2. Open solution file in Visual Studio.
 3. Open file `Triangle.cs`
 4. Implement method `Area(double foundation, double height)` so that it returns calculated area of triangle.
